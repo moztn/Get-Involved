@@ -5,7 +5,7 @@ Welcome and thanks for your interest in joining our community. If you’re new t
 Here we’ve compiled a list of steps how you can get involved and contribute to Mozilla and Mozilla Tunisia projects :
 
 - Step zero : Fill the joining form.
-- Step 1 : Choose your team ! We have four working teams in our community where you might find your contribution area, check them out for more infomation : The [coding team]() - The [localizing team]() - The [education team]() - The [speaking team]().
+- Step 1 : Choose your team ! We have four working teams in our community where you might find your contribution area, check them out for more infomation : The [coding team](https://github.com/moztn/Coding-Team) - The [localizing team](https://github.com/moztn/Localization-Team) - The [education team](https://github.com/moztn/Education-Team) - The [speaking team](https://github.com/moztn/Speaking-Team).
 - Step 2 : Make a profile on [Mozillians.org](https://mozillians.org/en-US/) where you can find mozillians from all over the world.
 - Step 2.5 : You may also join the [Mozilla Tunisia group](https://mozillians.org/en-US/group/mozilla-tunisia/) there.
 - Step 3 : You will be assigned to a mentor who will contact you in order to introduce you to the team, members and project. 
