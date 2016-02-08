@@ -32,7 +32,7 @@ At Mozilla Tunisia, we're using a couple of tools and platforms to keep in touch
 
 ## Social media channels
 
-We have a website [mozilla-tunisia.org](http://mozilla-tunisia.org), a [Facebook Page](https://www.facebook.com/MozillaTunisia) and [Twitter]() too so don't forget to subscribe.
+We have a website [mozilla-tunisia.org](http://mozilla-tunisia.org), a [Facebook Page](https://www.facebook.com/MozillaTunisia) and [Twitter](https://twitter.com/mozillatunisia) too so don't forget to subscribe.
 
 # For any questions don't hesitate to contact us.
 
