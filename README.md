@@ -20,4 +20,14 @@ At Mozilla Tunisia, we're using a couple of tools and platforms to keep in touch
 - [Github](http://github.com/moztn) is where all the community projects are, also used by the teams to track their tasks and activities.
 - [Telegram](https://telegram.org/) is our tchit-tchat tool, this is where you can find the members talking about everything and nothing (using the mobile app is very practical)
 - IRC : We're using our channel #mozillatunisia for large group meetings (check out how to use and use IRC from this [wiki page](http://wiki.mozilla-tunisia.org/IRC))
-- [Wiki] : We're using, as well as the other open source communities, a wiki for documentations (we are currently looking for contributors to get back our wiki to live)
+- [Wiki](wiki.mozilla-tunisia.org) : We're using, as well as the other open source communities, a wiki for documentations (we are currently looking for contributors to get back our wiki to live)
+- [The facebook group](https://www.facebook.com/groups/951349904910566/) has as mission to group members in one place so they can socialize and share content related to Mozilla.
+
+
+## Social media channels
+
+We have a [Facebook Page](https://www.facebook.com/MozillaTunisia) and [Twitter]() too so don't forget to subscribe.
+
+# For any questions don't hesitate to contact us.
+
+
